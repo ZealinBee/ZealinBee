@@ -5,8 +5,6 @@
 - 🧮 Check out my Repository!
   https://www.youtube.com/zealinbee
 
-<br />
-
 ### Stuff I've Made
 
 - [MechyKechy][project1]: A mechanical keyboard simulator with visual effects

@@ -3,7 +3,6 @@
 - 🎻 I play the violin, and I post some of them on [Youtube][website]!
 - 💻 Into Front-end development
 - 🧮 Check out my Repository!
-  https://www.youtube.com/zealinbee
 
 ### Stuff I've Made
 

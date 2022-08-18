@@ -24,7 +24,7 @@
 <br />
 
 [website]: https://youtube.com/zealinbee
-[project1]: http://zhiyuanliu.xyz
+[project1]: https://zealinbee.github.io/portfolio-v1/
 [project2]: https://chinesesimplified.netlify.app
 [project3]: https://downfall.netlify.app/
 [project4]: https://z1clock.netlify.app/

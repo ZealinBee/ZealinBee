@@ -6,7 +6,7 @@
 
 ### Stuff I've Made
 
-- [MechyKechy][project1]: A mechanical keyboard simulator with visual effects
+- [Portfolio][project1]: A portfolio I've made (not designed)
 - [Chinese Simplified][project2]: A Chinese learning website with lessons, vocabularies and grammar topics.
 - [Delta Downfall][project3]: An artist portfolio I made for my [friend][delta]
 - [Clock & Pomodoro][project4]: A simple clock with a customizable Pomodoro timer

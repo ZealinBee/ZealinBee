@@ -1,12 +1,13 @@
 # My name is Zhiyuan - on Youtube I'm [ZealinBee][website] ✨
 
-- 🎻 I play the violin, and I post some of them on [Youtube][website]!
 - 💻 Into Front-end development
+- 🎻 I play the violin, and I post some of them on [Youtube][website]!
 - 🧮 Check out my Repository!
 
 ### Stuff I've Made
 
 - [Portfolio][project1]: A portfolio I've made (not designed)
+- [Monthly Allowance Calculator][project5]: Allowance calculator with complex functions, worked with my backend friend and made it fullstack.
 - [Chinese Simplified][project2]: A Chinese learning website with lessons, vocabularies and grammar topics.
 - [Delta Downfall][project3]: An artist portfolio I made for my [friend][delta]
 - [Clock & Pomodoro][project4]: A simple clock with a customizable Pomodoro timer

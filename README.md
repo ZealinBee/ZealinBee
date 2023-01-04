@@ -15,11 +15,12 @@
 ### Languages and Tools:
 
 - HTML
-- CSS
-- JAVASCRIPT
+- CSS/SASS
+- JAVASCRIPT/TYPESCRIPT
 - REACT
 - GIT
 - WORDPRESS
+- C++
 
 <br />
 <br />

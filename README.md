@@ -6,7 +6,7 @@
 
 ### Stuff I've Made
 
-- [Portfolio][project1]: A portfolio I've made (not designed)
+- [Portfolio][project1]: My portfolio.
 - [Monthly Allowance Calculator][project5]: Allowance calculator with complex functions, worked with my backend friend and made it fullstack.
 - [Chinese Simplified][project2]: A Chinese learning website with lessons, vocabularies and grammar topics.
 - [Delta Downfall][project3]: An artist portfolio I made for my [friend][delta]

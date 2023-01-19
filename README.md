@@ -1,6 +1,6 @@
 # My name is Zhiyuan - on Youtube I'm [ZealinBee][website] ✨
 
-- 💻 Into Front-end development
+- 💻 Into Front-end development, but I have a Full-Stack mindset :)
 - 🎻 I play the violin, and I post some of them on [Youtube][website]!
 - 🧮 Check out my Repository!
 

@@ -15,13 +15,13 @@
 ### Languages and Tools:
 
 - HTML
-- CSS/SASS
+- CSS/SCSS/TAILWIND
 - JAVASCRIPT/TYPESCRIPT
 - REACT/REDUX
 - NEXT.JS
 - GIT
 - WORDPRESS
-- C++
+- FIREBASE
 
 <br />
 <br />

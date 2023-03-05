@@ -1,6 +1,7 @@
 # My name is Zhiyuan - on Youtube I'm [ZealinBee][website] ✨
 
 - 💻 Into Front-end development, but I have a Full-Stack mindset :) (Currently learning Node, Express and Mongo) 
+- 💪 Currently working on: [Anoynomous-diary][current-project]
 - 🧮 Check out my Repository!
 - 🎻 I play the violin, and I post some of them on [Youtube][website]!
 
@@ -33,3 +34,4 @@
 [project4]: https://z1clock.netlify.app/
 [project5]: https://spent-money-monthly-tracker-production.up.railway.app/
 [delta]: https://twitter.com/delta_downfall_
+[current-project]: https://github.com/ZealinBee/anonymous-diary

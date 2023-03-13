@@ -1,6 +1,6 @@
 # My name is Zhiyuan - on Youtube I'm [ZealinBee][website] ✨
 
-- 💻 Into Front-end development, but I have a Full-Stack mindset :) (Currently learning Node, Express and Mongo) 
+- 💻 Into Front-end development, but I have a Full-Stack mindset :) (Currently learning cloud technology like Azure) 
 - 💪 Currently working on: [Anoynomous-diary][current-project]
 - 🧮 Check out my Repository!
 - 🎻 I play the violin, and I post some of them on [Youtube][website]!
@@ -23,6 +23,9 @@
 - GIT
 - WORDPRESS
 - FIREBASE
+- NODE.JS
+- EXPRESS
+- MONGODB
 
 <br />
 <br />

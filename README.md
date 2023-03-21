@@ -1,6 +1,6 @@
 # My name is Zhiyuan - on Youtube I'm [ZealinBee][website] ✨
 
-- 💻 Into Front-end development, but I have a Full-Stack mindset :) (Currently learning cloud technology like Azure) 
+- 💻 Into Front-end development, but I have a Full-Stack mindset :) (Currently learning server side rendering technologies like Next.js) 
 - 💪 Currently working on: [Anoynomous-diary][current-project]
 - 🧮 Check out my Repository!
 - 🎻 I play the violin, and I post some of them on [Youtube][website]!
@@ -19,9 +19,7 @@
 - CSS/SCSS/TAILWIND
 - JAVASCRIPT/TYPESCRIPT
 - REACT/REDUX
-- NEXT.JS
 - GIT
-- FIREBASE
 - NODE.JS
 - EXPRESS
 - MONGODB

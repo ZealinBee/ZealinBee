@@ -7,7 +7,7 @@
 
 ### Stuff I've Made
 
-- [Portfolio][project1]: My portfolio.
+- [Portfolio][project1]: My portfolio website, in here you'll also be able to see my projects.
 - [Monthly Allowance Calculator][project5]: Allowance calculator with complex functions, worked with my backend friend and made it fullstack.
 - [Country Information With React][project2]: A website that shows all the countries of the world, with lotta details and search/filter functionalities.
 - [Delta Downfall][project3]: An artist portfolio I made for my [friend][delta]

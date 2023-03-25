@@ -3,7 +3,8 @@
 - 💻 Into Front-end development, but I have a Full-Stack mindset :) (Currently learning server side rendering technologies like Next.js) 
 - 💪 Currently working on: [Anoynomous-diary][current-project]
 - 🧮 Check out my Repository!
-- 🎻 I play the violin, and I post some of them on [Youtube][website]!
+- 🎻 I play the violin, and I post some of them on [Youtube][website]
+- Preparing for training at Integrify!
 
 ### Stuff I've Made
 

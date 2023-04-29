@@ -1,10 +1,16 @@
 # My name is Zhiyuan - on Youtube I'm [ZealinBee][website] ✨
 
-- 💻 Into Front-end development, but I have a Full-Stack mindset :) (Currently learning server side rendering technologies like Next.js) 
+- 💻 Full-stack Web Developer 
 - 💪 Currently working on: [Anoynomous-diary][current-project]
 - 🧮 Check out my Repository!
 - 🎻 I play the violin, and I post some of them on [Youtube][website]
-- Preparing for training at Integrify!
+- Currently training in Integrify!
+
+## What I'm learning in Integrify
+- TYPESCRIPT REACT
+- C# .NET
+- AZURE 
+- DOCKER
 
 ### Stuff I've Made
 

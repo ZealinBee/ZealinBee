@@ -1,10 +1,9 @@
 # My name is Zhiyuan - on Youtube I'm [ZealinBee][website] ✨
 
-- 💻 Full-stack Web Developer 
+- 💻 Full-stack Web Developer currently training at Integrify
 - 💪 Currently working on: [Anoynomous-diary][current-project]
 - 🧮 Check out my Repository!
 - 🎻 I play the violin, and I post some of them on [Youtube][website]
-- Currently training in Integrify!
 
 ## What I'm learning in Integrify
 - TYPESCRIPT REACT

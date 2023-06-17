@@ -31,6 +31,10 @@
 - EXPRESS
 - MONGODB
 
+### Reach me through:
+- [Linkedin][linkedin]
+- Email: zhiyuan.liu023@gmail.com
+
 <br />
 <br />
 <br />
@@ -45,3 +49,4 @@
 [current-project]: https://github.com/bababubudev/Saucy_Delights/
 [project6]: https://zhiyuan-shop.netlify.app/
 [api]: https://fakeapi.platzi.com/
+[linkedin]: https://www.linkedin.com/in/zhiyuan-liu-profile/

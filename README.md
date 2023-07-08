@@ -10,6 +10,7 @@
 - C# .NET
 - AZURE 
 - DOCKER
+- POSTGRES SQL
 
 ### Stuff I've Made
 

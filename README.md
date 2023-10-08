@@ -1,7 +1,7 @@
 # My name is Zhiyuan - on Youtube I'm [ZealinBee][website] ✨
 
 - 💻 Full-stack Web Developer currently training at Integrify
-- 💪 Currently working on: [Saucy delights][current-project]
+- 💪 Currently working on: [Full Stack Library][current-project]
 - 🧮 Check out my Repository!
 - 🎻 I play the violin, and I post some of them on [Youtube][website]
 
@@ -41,7 +41,7 @@
 [project4]: https://integrify-library.netlify.app/
 [project5]: https://spent-money-monthly-tracker-production.up.railway.app/
 [delta]: https://twitter.com/delta_downfall_
-[current-project]: https://github.com/bababubudev/Saucy_Delights/
+[current-project]: https://integrify-library.netlify.app/
 [project6]: https://zhiyuan-shop.netlify.app/
 [api]: https://fakeapi.platzi.com/
 [linkedin]: https://www.linkedin.com/in/zhiyuan-liu-profile/

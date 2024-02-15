@@ -1,6 +1,6 @@
 # My name is Zhiyuan - on Youtube I'm [ZealinBee][website] ✨
 
-- 💻 Full-stack Web Developer currently teaching as a Supporting Instructor at Integrify
+- 💻 Full-stack Web Developer currently a Supporting Instructor at Integrify -> Reviewing dozens of pull requests every day from students
 - 💪 Currently working on: [Kanban Board API][current-project]
 - 🧮 Check out my Repository!
 - 🎻 I play the violin, and I post some of them on [Youtube][website]

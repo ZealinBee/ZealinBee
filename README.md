@@ -1,13 +1,13 @@
 # My name is Zhiyuan - on Youtube I'm [ZealinBee][website] ✨
 
-- ❗ Portfolio Website: [Here][project1]
+- ❗ Portfolio Website: [HERE][project1]
 - 💻 Full-stack Web Developer with Cloud(Azure Expertise)
 - 💪 Currently working on getting the AZ-204 Certification
 - 🧮 Check out my Repository!
 - 🎻 I play the violin, and I post some of them on [Youtube][website]
 
 ### Reach me through:
-- [Linkedin][linkedin]
+- Best way to reach out to me: [Linkedin][linkedin]
 - Email: zhiyuan.liu023@gmail.com
 <br />
 

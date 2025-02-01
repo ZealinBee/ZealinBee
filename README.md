@@ -1,8 +1,8 @@
 # My name is Zhiyuan - on Youtube I'm [ZealinBee][website] ✨
 
 - ❗ Portfolio Website: [HERE][project1]
-- 💻 Full-stack Web Developer with Cloud(Azure Expertise)
-- 💪 Currently working on getting the AZ-204 Certification
+- 💻 Full-stack Web Developer with Cloud(Azure Expertise, AZ-204 [Certified][az-204])
+- 💪 Currently working on making an intra networking portal for my school!
 - 🧮 Check out my Repository!
 - 🎻 I play the violin, and I post some of them on [Youtube][website]
 
@@ -22,3 +22,4 @@
 [project6]: https://zhiyuan-shop.netlify.app/
 [api]: https://fakeapi.platzi.com/
 [linkedin]: https://www.linkedin.com/in/zhiyuan-liu-profile/
+[az-204]: https://learn.microsoft.com/api/credentials/share/en-us/ZhiyuanLiu-6302/A1D1717EDA4C4A89?sharingId=A6B474CB9A5290F9

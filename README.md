@@ -2,7 +2,7 @@
 
 - ❗ Portfolio Website: [HERE][project1]
 - 💻 Full-stack Web Developer with Cloud(Azure Expertise, AZ-204 [Certified][az-204])
-- 💪 Currently working on making an intra networking portal for my school!
+- 💪 Currently working on making a Knowledge Marketplace with other technical and business founders
 - 🧮 Check out my Repository!
 - 🎻 I play the violin, and I post some of them on [Youtube][website]
 

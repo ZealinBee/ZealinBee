@@ -23,3 +23,4 @@
 [api]: https://fakeapi.platzi.com/
 [linkedin]: https://www.linkedin.com/in/zhiyuan-liu-profile/
 [az-204]: https://learn.microsoft.com/api/credentials/share/en-us/ZhiyuanLiu-6302/A1D1717EDA4C4A89?sharingId=A6B474CB9A5290F9
+[other]: https://youtube.com
